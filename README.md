@@ -4,9 +4,9 @@
 - **Group Number**: 3  
 - **Members**:
   - Nhlanhla Cindi   – ST10470261
-  - Khaya Nkosi      – ST10472859
-  - Sabelo           – ST            
-  - Neo              – ST
+  - Khaya Neo Nkosi      – ST10472859
+  - Sabelo Kagiso Gwele  – ST10485571            
+  - Neo Kevin Lepota       – ST10494817
 
 ---
 
